@@ -1,19 +1,8 @@
-# Getting Started with Create React App
+# REACT CARDS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+React and bootstrap integration
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `yarn start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
+![alt tag](https://res.cloudinary.com/juanlg/image/upload/v1617779455/react-cards/Captura_de_Pantalla_2021-04-07_a_la_s_1.03.40_nk9hxz.png "React-Cards")
 ### Project
-[https://projects-cards.vercel.app]
+https://projects-cards.vercel.app
 
